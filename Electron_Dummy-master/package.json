@@ -1,0 +1,20 @@
+{
+  "name": "electron-dummy",
+  "productName": "Smart-room Dashboard",
+  "version": "1.0.0",
+  "description": "dummy app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Ola",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "boxicons": "^2.1.4",
+    "electron": "^27.1.0"
+  },
+  "devDependencies": {
+    "electron-reloader": "^1.2.3"
+  }
+}
